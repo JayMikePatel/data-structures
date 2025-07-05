@@ -5,7 +5,7 @@ public class Fibonacci {
         int second = 1;
         int temp = 0;
         int i;
-        for(i = 0; i < nth; i++) {
+        for (i = 0; i < nth; i++) {
             temp = first;
             first = second;
             second += temp;
