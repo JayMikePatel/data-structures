@@ -113,8 +113,10 @@ public class SortingAlgorithmsFour {
         shellSort(pre, pre.length);
         shellSort(pra, pra.length);
 
+        /*
         shellSort(lo, lo.length);
         shellSort(lre, lre.length);
         shellSort(lra, lra.length);
+        */
     }
 }
